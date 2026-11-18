@@ -20,3 +20,10 @@ This repository contains the activities and outputs for Experiment 1. It demonst
 - GitHub
 - Visual Studio Code
 - Python
+
+## Version Control Workflow
+
+Git is used to track changes made to the project. GitHub
+stores the repository online and allows the project to be
+managed and shared. Branching allows changes to be developed
+separately before being merged into the main branch.
